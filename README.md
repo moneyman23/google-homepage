@@ -1,0 +1,1 @@
+The purpose of this project is to replicate a google search engine website in order for me to understand how to create a webpage.
